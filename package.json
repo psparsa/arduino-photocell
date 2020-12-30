@@ -1,0 +1,9 @@
+{
+  "name": "arduino-photocell",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^2.0.0"
+  }
+}
